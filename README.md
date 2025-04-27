@@ -126,8 +126,6 @@ Write a c program to find the sum of odd digits using for loop
 Thus the program to find the sum of odd digits using for loop has been executed successfully.
 
 
-
-
 # EX – 10 - Factorial of a Number Using a Function
 ## AIM:
 To write a C program that calculates the factorial of a given number using a user-defined function.
@@ -148,11 +146,9 @@ d.	After the loop, print the factorial value.
 ![Screenshot 2025-04-27 135318](https://github.com/user-attachments/assets/7f5176d1-7b44-4bec-a3e9-6865a1753878)
 
 ## INPUT:
-
 ![Screenshot 2025-04-27 135325](https://github.com/user-attachments/assets/3fd81731-9ea3-4a52-ab28-772ac4340277)
 
 ## OUTPUT:
-
 ![Screenshot 2025-04-27 135329](https://github.com/user-attachments/assets/21946a68-8683-451a-8b49-a894619bf66b)
 
 ## RESULT:
